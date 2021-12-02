@@ -1,5 +1,5 @@
 {
-  "name": "@jcyan/lotide",
+  "name": "@naseemganji/lotide",
   "version": "1.0.0",
   "description": "A clone of the lodash JavaScript library to practice creating various types of functions using JS",
   "main": "assertArraysEqual.js",
@@ -11,16 +11,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JCyan90/lotide.git"
+    "url": "https://github.com/naseemganji/lotide1.git
   },
   "author": {
-    "name": "Julien Atanassian"
+    "name": "Naseem Ganji"
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JCyan90/lotide/issues"
+    "url": "https://github.com/naseemganji/lotide1/issues"
   },
-  "homepage": "https://github.com/JCyan90/lotide#readme",
+  "homepage": "https://github.com/naseemganji/lotide1#readme",
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^6.2.0"
